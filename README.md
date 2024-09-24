@@ -9,7 +9,7 @@ want to [`browserify`](https://github.com/substack/node-browserify) your module 
 
 To use React in production mode, set the environment variable `NODE_ENV` to `production`. A minifier that performs dead-code elimination such as [UglifyJS](https://github.com/mishoo/UglifyJS2) is recommended to completely remove the extra code present in development mode.
 
-## Example Usage
+## This is an Example Usage
 
 ```js
 var React = require('react');
